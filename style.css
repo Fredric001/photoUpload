@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: block !important;
+}
+.container img {
+    width: 150px;
+    height: 150px;
+    background: gray;
+    border-radius: 50%;  
+    object-fit: cover;                                      
+}
